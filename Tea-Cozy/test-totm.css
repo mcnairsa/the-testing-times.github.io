@@ -1,0 +1,36 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.tea {
+  height: 250px;
+  width: 300px;
+  background-color: burlywood;
+  color: darkcyan;
+  margin: 10px;
+  text-align: center;
+}
+
+.tea-image {
+  height: 200px;
+  width: 300px;
+}
+
+h4 {
+  margin: 0px;
+}
+
+.css-property {
+  color:deepskyblue;
+}
+
+
+.css-value {
+  color:yellowgreen;
+}
